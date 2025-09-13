@@ -1,0 +1,419 @@
+no,location,price,bedrooms,bathrooms,garage,area
+0,Zapopan,22300,3,4,2,180
+1,Real Vallarta,12500,2,2,2,100
+2,Puertas del Tule,25000,4,4,2,187
+3,Zapopan,58000,3,4,4,700
+4,Heroes Nacionales,9000,3,2,2,110
+5,Jardines del Valle,9000,3,3,2,80
+6,Parque Metropolitano,16500,2,2,2,95
+7,Zapopan,22300,3,4,2,180
+8,Jardín Real,30000,3,4,4,217
+9,Los Robles,19000,3,3,2,160
+10,Valle Real,18000,3,2,2,184
+11,Campo Real,6600,3,2,1,80
+12,Zapopan,13000,3,2,4,159
+13,Zapopan,12500,3,2,2,80
+14,Tesistán,5000,2,1,1,48
+15,Real de Valdepeñas,11500,2,2,2,72
+16,Plaza Guadalupe,9000,3,1,1,80
+17,Valle Real,25500,3,2,2,250
+18,Valle Real,25500,3,2,2,250
+19,Los Maestros,14000,2,2,1,340
+20,Prados Tepeyac,28000,2,4,4,485
+21,Colinas de San Javier,145000,3,4,4,600
+22,La Gloria,11500,3,2,2,110
+23,San Wenceslao,18900,2,2,1,100
+24,El Secreto,120000,3,4,4,618
+25,La Estancia,12500,2,2,2,90
+26,Cd de los Niños,10800,2,1,1,90
+27,Cd de los Niños,10800,2,1,1,100
+28,Estrada,9700,3,2,2,90
+29,Rinconada de la Calma,10700,2,2,2,90
+30,Conjunto Patria,22000,3,2,2,140
+31,Los Pinos,22000,4,2,3,240
+32,Nuevo México,12500,3,2,2,116
+33,La Floresta del Colli,15000,3,3,2,93
+34,Real San Javier,35000,3,3,2,157
+35,Real San Javier,45000,3,3,2,157
+36,Puerta del Valle,28500,2,2,2,116
+37,Zona Real,23000,3,3,2,160
+38,Zapopan,15800,3,2,2,105
+39,Rinconada de la Calma,13700,2,2,2,81
+40,Las Fuentes,22500,4,3,2,380
+41,Solares Residencial,26000,3,3,2,203
+42,Zapopan,39000,2,3,3,173
+43,Juan Manuel Vallarta,19000,2,2,1,95
+44,Puertas del Tule,25000,4,4,2,187
+46,Tepeyac Casino,18500,3,2,2,300
+47,Hogares de Nuevo México,11900,2,2,2,85
+48,La Floresta del Colli,15000,3,3,2,93
+49,Real de Valdepeñas,11500,2,2,2,72
+50,La Cima,17500,3,3,3,168
+51,Los Maestros,14000,2,2,1,340
+53,Heroes Nacionales,13000,3,2,1,1
+54,Zapopan,7650,3,2,2,90
+55,Valle Real,18500,1,1,1,79
+56,Zapopan,26000,4,4,2,159
+57,Solares Residencial,20500,3,2,2,127
+58,Chapalita Sur,19400,3,2,2,120
+59,El Bajío,35000,5,4,3,210
+60,Zapopan,58000,3,4,4,700
+61,Santa Ana Tepetitlán,19000,3,2,2,137
+62,Lomas Altas,22200,2,2,2,90
+64,Cd del Sol,19600,3,2,2,180
+65,Camino Real,10900,2,1,1,80
+67,San Wenceslao,20000,3,2,1,115
+68,Puerta de Hierro,32000,2,2,2,200
+69,Chapalita de Occidente,16000,2,2,2,180
+70,Jardines de Guadalupe,24000,3,3,2,190
+71,Arcos de Guadalupe,20500,2,2,2,100
+72,Solares Residencial,30000,3,4,2,145
+73,Solares Residencial,30000,3,4,2,145
+74,Solares Residencial,30000,3,4,2,145
+75,Jocotán Zapopan Jalisco,17000,2,2,2,90
+77,Real Acueducto,29500,2,2,2,117
+78,Valle Real,23000,2,2,2,85
+79,La Estancia,12500,2,2,2,90
+80,Zapopan,22300,3,4,2,180
+86,Valle Real,28500,2,2,2,127
+87,Motorola,18000,3,2,2,150
+88,Cd del Sol,35000,3,3,3,450
+89,Rinconada del Parque,65000,5,4,4,550
+90,Patria Universidad,14900,2,2,2,100
+91,Valle Real,29500,2,2,2,125
+92,Puerta del Valle,21500,2,2,1,250
+93,Paseos del Sol,21500,4,3,2,280
+94,Chapalita Sur,22000,3,2,3,223
+95,Jardín Real,21500,3,3,2,172
+96,Jardín Real,21500,3,4,2,210
+97,Jardín Real,21500,3,3,2,172
+98,Jardín Real,20000,3,4,2,172
+99,Valle Real,11500,3,2,2,90
+100,Solares Residencial,26500,3,4,2,200
+101,Parque Metropolitano,16500,2,2,2,95
+102,Rinconada de la Calma,13700,2,2,2,81
+103,Cd de los Niños,10800,2,1,1,100
+104,Solares Residencial,23500,3,2,3,200
+106,Granja,20500,2,2,2,100
+107,Valle Real,16500,2,2,2,120
+108,El Bajío,21500,3,2,2,145
+109,Altus Quintas,8500,3,3,2,82
+110,Hacienda de las Lomas,25000,3,2,2,120
+111,Las Fuentes,22500,4,3,2,380
+112,Altus Quintas,8500,3,3,2,85
+113,Camichines Vallarta,9800,3,1,1,80
+114,Zapopan,43000,2,2,2,133
+115,Puerta Plata,50000,2,2,2,133
+116,Puerta Plata,43000,2,2,2,133
+117,Zapopan,36000,1,1,2,133
+118,Altus Quintas,8500,3,3,2,85
+119,Valle Real,32000,3,4,2,260
+120,Puerta Plata,38000,2,2,2,152
+121,Granja,17000,2,2,2,90
+122,Residencial Cordilleras,43000,4,4,4,300
+123,Valle Real,20000,2,2,2,135
+124,Puerta de Hierro,50000,3,3,3,175
+125,Loma Real,70000,5,4,4,800
+126,Jardín Real,30000,3,4,4,217
+127,Nuevo México,15800,3,2,2,160
+128,Exitmex,15900,3,2,2,110
+129,Colli Urbano,110000,2,2,4,500
+130,Cd del Sol,12000,2,2,1,100
+131,Parque Metropolitano,14000,3,2,2,120
+132,Cd del Sol,16000,4,2,2,180
+133,Cd del Sol,12000,2,2,1,110
+134,Chapalita Sur,20000,3,3,2,200
+135,Zapopan,9700,3,2,2,100
+136,Parque Metropolitano,14000,3,2,2,120
+137,Chapalita Sur,75000,5,4,3,600
+138,Valle Real,25500,3,2,2,250
+139,La Haciendita,12000,3,2,2,120
+140,Valle Real,20000,4,3,2,110
+141,Constitución,9500,3,2,1,75
+142,Valle Real,18000,3,2,2,184
+143,Valle Real,18000,3,2,2,184
+144,Zapopan,15800,3,2,2,105
+145,Zapopan,15800,3,2,2,105
+146,Kodak,17000,4,2,1,16
+147,La Haciendita,10500,3,2,2,84
+148,Cd del Sol,40500,4,4,4,400
+149,Cd de los Niños,10800,2,1,1,100
+150,Zapopan,58000,3,4,4,700
+151,Zona Real,23000,3,3,2,160
+152,Zapopan,35000,3,4,2,190
+153,Valle Real,26000,2,2,2,133
+154,Valle Real,25000,2,2,2,105
+155,Valle Real,23500,2,2,2,105
+156,Royal Country,40900,2,2,2,164
+157,Arboledas,17500,4,3,1,165
+158,Zapopan,12900,3,3,2,115
+159,Campo Real,8000,3,2,2,99
+160,Vallarta la Patria,10000,0,1,1,40
+161,Universitaria,24000,2,2,2,100
+162,Valle Real,23000,2,2,2,121
+163,Lomas Altas,8500,2,1,2,65
+164,Chapalita de Occidente,24000,3,4,2,190
+165,Altus Quintas,7400,3,3,2,80
+166,Zapopan,8450,3,2,2,85
+167,Residencial Los Sueños,45000,4,4,4,410
+168,Puerta de Hierro,54500,3,3,3,183
+169,Real del Parque,68000,3,4,3,550
+170,Valle Real,27900,2,2,2,150
+171,Francisco Sarabia,29500,3,3,4,270
+172,Plaza Guadalupe,9000,3,1,1,80
+173,Zona Real,23000,3,3,2,160
+174,Puerta de Hierro,35000,2,2,2,92
+175,Real Acueducto,45000,3,2,3,220
+176,Lomas del Valle,135000,3,3,4,750
+177,Colinas de San Javier,60000,2,2,2,84
+178,Universitaria,73000,3,3,4,800
+180,Zapopan,8950,2,2,2,84
+181,Jardines Universidad,38000,4,4,3,300
+182,Valle Real,18000,3,2,2,184
+183,Misión la Floresta,9000,2,2,1,79
+184,Parques Tepeyac,8600,2,2,1,64
+185,Arboledas,13500,3,2,2,160
+186,La Giralda,38000,3,3,3,330
+187,Heroes Nacionales,9000,3,2,2,110
+188,Zapopan,16500,2,2,3,120
+189,Puerta de Hierro,115000,4,4,4,701
+190,Jardines del Vergel,18500,6,4,2,144
+191,Valle Real,17500,2,2,2,122
+192,Valle Real,18500,2,2,2,123
+193,Arcos de Guadalupe,17000,2,2,2,102
+194,Lomas Altas,28000,3,2,2,200
+195,Hogares de Nuevo México,11900,2,2,2,85
+196,Los Pinos,22000,4,2,3,240
+197,Puerta de Hierro,33500,2,2,2,92
+198,Valle Real,75000,3,4,3,504
+199,Arboledas,19000,3,2,2,180
+200,Zapopan,62500,4,4,4,332
+201,Lomas de Guadalupe,35000,4,4,2,377
+202,Arcos de Guadalupe,33000,6,3,2,275
+203,Puertas del Tule,25000,4,4,2,187
+204,Real Acueducto,40000,3,2,2,95
+205,Las Cumbres,45000,3,4,2,220
+206,Altamira,20000,3,3,3,200
+207,Victoria,40000,5,4,4,715
+208,Nuevo México,25000,3,3,3,133
+209,Real San Javier,45000,3,3,2,157
+210,Real Vallarta,12500,2,2,2,100
+211,Prados Tepeyac,28000,2,4,4,485
+212,Heroes Nacionales,9000,3,2,2,110
+213,Altamira,14500,2,2,1,133
+214,Los Almendros,16500,4,3,2,140
+215,Lomas de Zapopan,6900,2,1,1,79
+216,Parque Metropolitano,18500,2,2,2,113
+217,Las Cañadas,14000,2,2,2,85
+218,Puerta del Valle,27000,3,3,2,100
+219,Loma Blanca,30000,3,2,2,423
+220,Cd Bugambilias,23000,3,3,2,320
+221,Jardines Universidad,21000,4,3,2,133
+222,Solares Residencial,25000,3,3,2,224
+223,Misión San Isidro,15000,3,2,2,110
+224,Victoria,23000,4,2,3,225
+225,Coto Naciones Unidas,24000,3,3,2,150
+226,Solares Residencial,26000,3,3,2,203
+227,Zapopan,15800,3,2,2,105
+228,Zapopan,12500,3,2,2,80
+229,Zapopan,60000,4,4,4,440
+230,Arenales Tapatíos,11900,3,3,2,83
+231,Jardines del Sol,13800,3,2,2,160
+232,Nuevo México,20000,3,3,2,160
+233,México,12500,3,2,1,78
+234,La Joya 1,35000,3,4,4,428
+235,Rinconada de la Calma,10700,2,2,2,90
+236,Zapopan,7650,3,2,2,90
+237,Linda Vista,13000,2,2,1,80
+238,Jardines del Valle,4500,2,1,1,50
+239,Rinconada del Parque,17900,2,2,2,130
+240,Luna Bosque,10500,3,2,2,128
+241,Zapopan,40000,4,4,3,349
+242,Valle Real,27000,2,2,2,121
+243,San Miguel de la Colina,21000,2,2,2,137
+244,San Miguel de la Colina,28000,2,2,2,145
+245,Valle Real,18500,2,2,2,115
+246,San Miguel de la Colina,23000,2,2,2,145
+247,Nuevo México,10500,2,2,2,85
+248,Arboledas,40000,6,4,4,282
+249,Zapopan,8500,3,3,2,99
+250,Cd de los Niños,10800,2,1,1,90
+252,La Joya 1,32000,3,3,3,334
+254,Cd Bugambilias,33000,4,4,4,465
+255,Plaza Guadalupe,19000,3,2,3,160
+256,Heroes Nacionales,14700,3,2,2,90
+257,Cd del Sol,35000,4,4,4,400
+258,La Estancia,12500,2,2,2,90
+259,Las Cañadas,25000,3,2,3,600
+260,Patria Universidad,16000,3,2,2,79
+261,Los Robles,6600,3,1,1,81
+262,Jardines del Sol,39500,3,3,3,436
+263,Solares Residencial,26500,3,4,2,185
+264,Solares Residencial,25000,4,4,3,253
+265,Zapopan,24000,3,2,2,144
+266,Altamira,140000,4,4,4,850
+267,Puerta Plata,75000,4,4,2,439
+268,Altamira,85000,4,3,4,850
+269,Hacienda del Tepeyac,17000,3,3,2,125
+270,Zapopan,58000,3,4,4,700
+271,Los Pinos,22000,4,2,3,240
+272,Zapopan,8300,3,2,2,89
+273,La Calma,24000,5,2,1,194
+274,Valle Real,23000,2,2,2,105
+275,Valle Real,27000,3,3,2,163
+276,Valle Real,23000,2,2,2,106
+277,Jardines de los Pinos,14000,4,3,2,150
+278,Puerta de Hierro,41755,2,2,2,194
+279,Rinconada del Bosque,22000,3,4,2,130
+280,Nuevo México,15200,2,2,2,82
+281,Zapopan,13000,3,2,4,159
+282,La Estancia,12500,2,2,2,90
+283,Lomas de Guadalupe,35000,4,4,2,377
+284,La Alameda,14500,3,2,2,131
+285,Exitmex,12000,3,2,1,110
+286,Jardín Real,15500,3,2,2,248
+287,Jardines Universidad,19500,2,2,2,81
+288,Exitmex,13000,3,2,2,145
+289,Arcos de Guadalupe,21000,3,3,2,120
+290,Atlas Chapalita,19000,2,2,2,99
+291,Don Bosco Vallarta,16900,2,2,2,122
+292,Plaza Guadalupe,9000,3,1,1,80
+293,Rinconada de la Calma,13700,2,2,2,81
+294,Loma Bonita,13500,3,2,2,160
+295,La Mojonera,32500,4,4,4,350
+296,Heroes Nacionales,6800,3,1,1,60
+297,Residencial Plaza Guadalupe,12500,3,2,1,157
+298,Chapalita Sur,13000,3,2,1,122
+299,Puerta de Hierro,45000,3,4,4,704
+300,Valle Real,39900,3,3,2,150
+301,Moctezuma Poniente,6500,2,1,1,58
+302,Prados Tepeyac,8500,2,1,1,61
+303,Jardines del Sol,14500,3,2,2,140
+305,Mirador de la Cañada,9000,3,2,2,90
+306,Puerta de Hierro,29950,2,2,2,120
+307,Santa Lucía,7750,3,2,2,106
+308,El Campanario,16000,3,2,2,94
+309,Parque Regency,55000,6,4,3,563
+310,Solares Residencial,27500,4,3,3,250
+311,Pinar de la Calma,29900,3,3,2,352
+312,Paseos del Sol,18500,4,3,1,200
+313,Rinconada de la Calma,12500,2,2,2,81
+314,Universitaria,26000,4,4,4,308
+315,Zapopan,58000,3,4,4,700
+316,Jardín Real,55000,3,3,3,400
+317,Tesistán,10200,2,2,2,70
+318,Virreyes,25000,3,3,2,255
+319,Nuevo México,11500,3,2,2,99
+320,Zapopan,11600,3,2,2,115
+321,Zapopan,11600,3,2,2,115
+322,Nuevo México,16500,3,2,2,135
+323,Vallarta Cuauhtémoc,20500,3,2,2,199
+324,Loma Bonita,9500,2,1,1,44
+325,Rinconada de la Calma,10700,2,2,2,90
+326,Lomas Altas,80000,5,4,3,142
+327,Victoria,14000,2,2,2,102
+328,Girasoles Acueducto,8300,3,1,1,111
+329,San Juan de Ocotán,18000,3,4,2,193
+330,Zapopan,10000,3,3,2,83
+331,Lomas del Batán,9500,3,2,2,125
+332,Cd del Sol,21500,4,3,4,405
+333,Parque Metropolitano,18000,2,2,2,85
+334,Zapopan,11600,3,3,2,126
+335,Valle Real,27000,2,2,1,125
+336,Puerta de Hierro,28000,2,2,2,92
+337,Valle Real,23500,2,2,2,111
+339,Argenta Mirador Residencial,20000,3,3,2,240
+340,Loma Bonita,17000,3,2,1,131
+341,Tesistán,12500,3,3,2,70
+342,Arcos de Zapopan,4500,2,1,1,50
+343,Jardín Real,21500,4,3,3,208
+344,Jardín Real,19000,3,3,2,174
+345,Arcos de Zapopan,8500,3,2,1,123
+346,Jardín Real,19000,3,3,2,154
+347,Santa Ana Tepetitlán,11000,2,2,2,82
+348,El Bajío,32000,3,4,2,300
+349,Bugambilias,15500,3,4,2,240
+350,Jardines Universidad,14200,2,2,2,97
+351,Solares Residencial,18000,3,2,2,180
+352,Parque Metropolitano,43000,4,4,2,180
+353,Zapopan,45000,3,4,3,281
+354,Valle Real,5799,3,2,2,195
+355,Camino Real,8500,2,1,1,69
+356,Guadalupe Inn,9000,3,2,1,80
+357,Jardín de San Ignacio,14000,3,1,1,100
+358,Cd del Sol,36000,3,4,4,480
+359,El Fortín,12500,3,3,2,91
+360,La Cima,18000,4,3,2,180
+361,Hacienda del Tepeyac,18000,3,3,2,156
+362,Hacienda del Tepeyac,17000,3,3,2,169
+363,Jardín Real,20000,3,3,2,212
+364,Villas De Otero De Guadalupe,7300,3,2,1,75
+366,Jardines de los Pinos,27500,3,3,3,300
+367,Zapopan,12800,3,2,2,90
+368,Valle Real,16000,4,3,2,147
+369,Granja,15000,4,3,2,103
+370,Granja,15000,4,3,2,103
+371,Granja,15000,4,3,2,103
+372,Granja,15000,4,3,2,103
+373,Santa Fe,30000,2,2,2,200
+374,Tepeyac Casino,12000,2,2,2,104
+375,Pontevedra,80000,3,4,4,500
+376,Colinas de San Javier,4000,4,4,2,897
+377,Paseos del Sol,6200,2,1,1,65
+378,Santa Fe,30000,2,3,2,210
+379,Jardines de los Pinos,22500,4,4,2,280
+380,Altamira,14500,2,2,1,133
+381,Lomas del Seminario,18000,4,4,3,215
+382,Zapopan,85000,5,4,4,315
+383,Rinconada del Parque,23500,3,2,3,220
+384,Zapopan,14500,3,2,2,115
+385,Altagracia,4500,2,1,1,85
+387,La Cima,21000,3,4,2,164
+388,La Cima,21000,3,4,2,164
+389,Jardín Real,50000,4,4,2,281
+390,Santa Ana Tepetitlán,11000,2,2,2,82
+391,Santa Ana Tepetitlán,11000,2,2,2,82
+392,Zapopan,34500,3,4,4,305
+393,Puerta de Hierro,150000,5,4,4,850
+394,Paseos del Sol,20000,4,2,2,196
+395,Valle Real,60000,5,4,4,500
+396,Valle Real,37000,3,4,2,300
+397,Puerta de Hierro,29000,2,2,2,120
+398,Santa Isabel,65000,3,4,4,780
+400,Valle Real,40000,3,3,4,460
+401,Zapopan,12000,3,2,2,108
+402,Puerta del Llano,12500,4,3,2,102
+403,Nuevo México,13000,3,2,2,120
+404,Lomas Altas,22500,2,2,2,105
+405,Lomas Altas,22500,2,2,2,105
+406,Zapopan,12500,3,3,1,120
+408,El Tigre,3500,1,1,1,200
+409,Solares Residencial,18500,3,2,2,116
+410,Zapopan,13400,2,2,2,84
+411,Zapopan,9900,3,2,2,91
+412,El Zapote,8500,2,2,1,123
+413,Guadalupe Jardín,5100,1,1,1,50
+414,Los Robles,9500,3,2,2,90
+415,Puerta de Hierro,23000,2,2,2,92
+416,Nuevo México,13000,3,2,2,104
+417,Villas de Zapopan,12000,2,2,2,78
+418,Jocotán Zapopan Jalisco,17500,2,2,2,80
+419,Valle Real,12000,3,2,2,90
+420,Valle de Bugambilias,37000,3,3,2,525
+421,Loma Bonita Sur,20000,3,2,2,148
+422,Los Pinos,6900,2,1,1,65
+423,Zapopan,23500,3,4,2,147
+424,Luna Bosque,12500,3,3,2,180
+425,Bosques Vallarta,17000,4,3,2,160
+426,Valle Real,16700,4,3,2,110
+427,San Juan de Ocotán,24500,3,3,2,160
+428,Conjunto Patria,10000,3,1,1,80
+429,Coral,23500,3,2,3,180
+430,Tesistán,8500,3,2,2,116
+431,Valle Real,21600,2,2,3,150
+432,Puerta del Bosque,14000,3,3,1,90
+433,Villas del Centinela,10000,2,1,1,95
+434,Jardines de Guadalupe,38000,3,3,3,300
+435,Parque Metropolitano,19000,3,2,2,108
+436,Agrícola,10500,3,3,2,115
+437,Nuevo México,14500,3,2,2,119
