@@ -1,6 +1,7 @@
 # 📊 Panel de Precios de Renta en Guadalajara
 
 Aplicación web desarrollada con **Streamlit**, **pandas** y **plotly** para explorar precios de renta de viviendas en la Zona Metropolitana de Guadalajara (dataset `gdl_rental_prices.csv`).
+link a RENDER: https://precios-de-renta-de-viviendas-en.onrender.com
 
 ## Funcionalidades principales
 
