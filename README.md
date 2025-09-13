@@ -2,7 +2,7 @@
 
 Aplicación web desarrollada con **Streamlit**, **pandas** y **plotly** para explorar precios de renta de viviendas en la Zona Metropolitana de Guadalajara (dataset `gdl_rental_prices.csv`).
 
-## ✨ Funcionalidades principales
+## Funcionalidades principales
 
 - Encabezado y vista previa interactiva de los datos.
 - Carga de datos:
@@ -17,7 +17,7 @@ Aplicación web desarrollada con **Streamlit**, **pandas** y **plotly** para exp
   - Ejemplo: `price` → `precio`, `bedrooms` → `recámaras`, `bathrooms` → `baños`, etc.  
   - Esto mejora la usabilidad para usuarios hispanohablantes.
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 .
 ├── README.md
@@ -30,12 +30,12 @@ Aplicación web desarrollada con **Streamlit**, **pandas** y **plotly** para exp
 shell
 Copiar código
 
-## 🛠️ Requisitos
+## Requisitos
 
 - Python 3.12+
 - Entorno virtual recomendado
 
-## ⚙️ Instalación
+## Instalación
 
 ```bash
 # Crear y activar entorno virtual (Windows PowerShell)
